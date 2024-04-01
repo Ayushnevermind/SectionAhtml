@@ -1,0 +1,27 @@
+body {
+    padding :0 px ;
+  }
+  
+
+    .navbar {
+    background-color: cadetblue ;
+    padding:10 px;
+
+  }
+  .navbar a{
+    color:#ffffff;
+    text-decoration: none;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 14 px;
+    text-transform:uppercase ;
+    margin-right: 30px;
+    overflow: auto;
+    ;
+    position: relative;
+  }
+   .navbar a: hover{
+    
+    border: 1px solid #ffffff white;
+    border: radius 2px  ;
+
+   }
